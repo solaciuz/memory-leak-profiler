@@ -1,0 +1,1 @@
+function sample() { return process.memoryUsage(); } module.exports = { sample };
